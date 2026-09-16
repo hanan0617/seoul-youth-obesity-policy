@@ -1,4 +1,4 @@
-# 🏥 서울 청년 비만 진단 및 정책 타겟팅
+# 서울 청년 비만 진단 및 정책 타겟팅
 ### Seoul Youth Obesity Diagnosis & Data-Driven Policy Proposal
 
 > 🏆 **DCS 대학생 논문경진대회 금상 수상작**  
