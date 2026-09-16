@@ -216,3 +216,34 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ===========================================================
+# 이 프로젝트 전용 제외 항목
+# ===========================================================
+
+# 지역사회건강조사 원시 데이터 (대용량)
+chs19_all/
+chs20_all_re/
+chs21_all/
+chs22_all/
+chs23_all/
+chs24_all/
+chs25_all/
+*.sav
+
+# 서울시 상권분석 원시 데이터 (대용량)
+서울시_상권분석서비스*/
+서울시_공공체육시설_통계.csv
+서울시_등록_신고_체육시설_통계.csv
+
+# 개인 단위 원본 데이터 (비식별화 미확인)
+seoul_youth_individual.csv
+
+# 가상환경
+.venv/
+venv/
+env/
+
+# Jupyter 체크포인트
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
