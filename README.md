@@ -31,23 +31,10 @@
 ---
 
 ## 📁 파일 구성
-seoul-youth-obesity-policy/
-|
-|-- PBL_2_choisong_sourcecode_highfive.ipynb
-|-- report_highfive.pdf
-|
-+-- data/
-|-- master_clustered.csv
-|-- master_full.csv
-|-- ext_sales.csv
-|-- ext_sports.csv
-|-- ext_store.csv
-+-- seoul_youth_district_year.csv
-
 
 | 파일 | 설명 |
 |---|---|
-| `PBL_2_choisong_sourcecode_highfive.ipynb` | 전체 분석 코드 (전처리 → 6대 분석 → 시각화) |
+| `PBL_2_sourcecode_highfive.ipynb` | 전체 분석 코드 (전처리 → 6대 분석 → 시각화) |
 | `report_highfive.pdf` | 최종 분석 보고서 |
 | `data/master_clustered.csv` | 군집 결과 포함 자치구 마스터 데이터 |
 | `data/master_full.csv` | 전처리 완료 자치구 마스터 데이터 |
@@ -55,6 +42,7 @@ seoul-youth-obesity-policy/
 | `data/ext_sports.csv` | 체육시설 요약 |
 | `data/ext_store.csv` | 점포 요약 |
 | `data/seoul_youth_district_year.csv` | 자치구 × 연도 패널 데이터 |
+
 
 ## 🗂️ 데이터 출처
 
